@@ -1,4 +1,4 @@
-# 
+# Avançado Pixelle-Video scripts. Com execução de código e interface amigável — otimizado para máximo desempenho e eficiência.
 
 
 
